@@ -1,11 +1,29 @@
 
 #include <stdio.h>
 #include <string.h>
+#include<stdlib.h>
+#include <termios.h>
+#include <unistd.h>
+
 
 char x, o;
 char a[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
 char u1[50], u2[50];
 
+int getch (void)
+{
+        int ch;
+        struct termios oldt, newt;
+
+        tcgetattr(STDIN_FILENO, &oldt);
+        newt = oldt;
+        newt.c_lflag &= ~(ICANON|ECHO);
+        tcsetattr(STDIN_FILENO, TCSANOW, &newt);
+        ch = getchar();
+        tcsetattr(STDIN_FILENO, TCSANOW, &oldt);
+
+        return ch;
+}
 int decision()
 {
     char dec;
