@@ -1,7 +1,8 @@
 # Requirements 
 
 # Introduction
-1. 
+1. TICTACTOE game is just for Entertainment. We are caught up in our daily life We are so much due to work stress or something else. It will be difficult to deal with the stress so we develop this game to Entertain. 
+
 # SWOT Analyasis
 1. Strength
    It gives feel like mobile game and Realistic. 

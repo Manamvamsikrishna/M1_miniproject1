@@ -1,0 +1,6 @@
+*.out
+*.o
+*.s
+*gcno
+*html
+*gcov
