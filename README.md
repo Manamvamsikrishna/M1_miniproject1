@@ -13,3 +13,6 @@ cppcheck:[![cpp-check](https://github.com/Manamvamsikrishna/M1_miniproject1/acti
 codiga:
 ![Screenshot (365)](https://user-images.githubusercontent.com/82494619/156601976-2189bc23-6578-4d7f-8b49-d634e69d8b1b.png)
 
+![Screenshot (366)](https://user-images.githubusercontent.com/82494619/156602088-1a45ce04-0c8b-49d2-a1e7-2a1596570059.png)
+
+
