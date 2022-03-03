@@ -11,4 +11,5 @@ codacy:[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa2f1795049f4
 cppcheck:[![cpp-check](https://github.com/Manamvamsikrishna/M1_miniproject1/actions/workflows/Static-check.yml/badge.svg)](https://github.com/Manamvamsikrishna/M1_miniproject1/actions/workflows/Static-check.yml)
 
 codiga:
+![Screenshot (365)](https://user-images.githubusercontent.com/82494619/156601976-2189bc23-6578-4d7f-8b49-d634e69d8b1b.png)
 
